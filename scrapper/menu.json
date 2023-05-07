@@ -1,0 +1,4146 @@
+[
+    {
+        "name": "Corned Beef Roast",
+        "link": "https://www.allrecipes.com/recipe/83646/corned-beef-roast/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(5 1/2 pound)",
+                "ingredientName": "corned beef brisket with spice packet"
+            },
+            {
+                "quantity": "7",
+                "unit": "small",
+                "ingredientName": "potatoes, peeled and diced"
+            },
+            {
+                "quantity": "4",
+                "unit": "medium",
+                "ingredientName": "carrots, peeled and diced"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "onion, diced"
+            },
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "ingredientName": "garlic, chopped"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 300 degrees F (150 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top. Sprinkle seasoning packet over beef, then pour in water until potatoes are almost covered. Cover with a lid or heavy aluminum foil."
+            },
+            {
+                "step": 3,
+                "indication": "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+            }
+        ]
+    },
+    {
+        "name": "Stout-Braised Lamb Shanks",
+        "link": "https://www.allrecipes.com/recipe/158799/stout-braised-lamb-shanks/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "vegetable oil"
+            },
+            { "quantity": "4", "unit": "", "ingredientName": "lamb shanks" },
+            { "quantity": "1", "unit": "", "ingredientName": "onion, chopped" },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "ingredientName": "garlic, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "",
+                "ingredientName": "carrots, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "",
+                "ingredientName": "celery ribs, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "tomato paste"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) can",
+                "ingredientName": "beef broth"
+            },
+            {
+                "quantity": "1",
+                "unit": "(12 fluid ounce) bottle",
+                "ingredientName": "stout (such as Guinness®) or porter"
+            },
+            {
+                "quantity": "3",
+                "unit": "sprigs",
+                "ingredientName": "fresh thyme"
+            },
+            {
+                "quantity": "3",
+                "unit": "sprigs",
+                "ingredientName": "fresh parsley"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "bay leaf" },
+            {
+                "quantity": "1",
+                "unit": "sprig",
+                "ingredientName": "fresh rosemary"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and pepper to taste"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Heat oil in a Dutch oven or large, wide pot over medium-high heat until oil begins to smoke. Sear lamb shanks in hot oil on all sides until browned, about 10 minutes. Remove lamb shanks and set aside. Drain excess grease."
+            },
+            {
+                "step": 2,
+                "indication": "Add onion and garlic to the Dutch oven over medium heat. Cook and stir until onion is softened and translucent, about 5 minutes. Stir in carrots, celery, and tomato paste; cook for 5 minutes more."
+            },
+            {
+                "step": 3,
+                "indication": "Return lamb shanks to the Dutch oven and pour in broth and stout beer. Use kitchen twine to tie together thyme, parsley, and bay leaf into a secure bundle; add to lamb shanks. Bring to a boil."
+            },
+            {
+                "step": 4,
+                "indication": "Reduce heat to medium-low, cover, and simmer, stirring occasionally, until lamb is tender and nearly falls off the bone, 2 to 3 hours. Stir in rosemary sprig and season with salt and pepper during the last 10 minutes of cooking. Remove rosemary sprig and herb bundle before serving."
+            }
+        ]
+    },
+    {
+        "name": "Chicken Al Pastor",
+        "link": "https://www.allrecipes.com/recipe/8509102/chicken-al-pastor/",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "unit": "",
+                "ingredientName": "dried guajillo chiles, stemmed and seeded"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "achiote paste"
+            },
+            {
+                "quantity": "6",
+                "unit": "large cloves",
+                "ingredientName": "garlic, peeled"
+            },
+            {
+                "quantity": "1",
+                "unit": "(7 ounce) can",
+                "ingredientName": "chipotle peppers in adobo sauce, drained"
+            },
+            {
+                "quantity": "1 ⅓",
+                "unit": "cups",
+                "ingredientName": "finely chopped onion, divided"
+            },
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "ingredientName": "orange juice"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "ingredientName": "apple cider vinegar"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "ground cumin"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "light brown sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "kosher salt"
+            },
+            {
+                "quantity": "3",
+                "unit": "pounds",
+                "ingredientName": "skinless, boneless chicken thighs, cut in half"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "8 (12-inch) jumbo wooden skewers"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "ingredientName": "fresh pineapple - peeled, cored, and sliced"
+            },
+            {
+                "quantity": "20",
+                "unit": "(6 inch)",
+                "ingredientName": "corn tortillas"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "roughly chopped fresh cilantro"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Heat a skillet over medium-high heat. Add dried chiles; cook, turning occasionally, until toasted and blistered in spots, 3 to 5 minutes. Add 1 cup water to just cover the chiles, and bring to a simmer over medium-high. Cover and cook, undisturbed, until softened, about 5 minutes. Drain well."
+            },
+            {
+                "step": 2,
+                "indication": "Combine chiles, achiote, garlic, chipotles, 2/3 cup onion, orange juice, vinegar, oil, cumin, brown sugar, and salt in a blender; process until smooth, about 30 seconds. Reserve 1/2 cup marinade, cover, and refrigerate until ready to use."
+            },
+            {
+                "step": 3,
+                "indication": "Place remaining marinade in a shallow dish or large resealable plastic bag, add chicken; toss to evenly coat. Cover chicken with plastic wrap, and refrigerate at least 8 hours or up to 24 hours."
+            },
+            {
+                "step": 4,
+                "indication": "Place wooden skewers in a shallow dish; cover with water by 1 inch. Let stand at room temperature while chicken marinates."
+            },
+            {
+                "step": 5,
+                "indication": "Preheat the oven to 400 degrees F (200 degrees C). Position oven rack 8 inches away from heating element. Line a small roasting pan or 13- x 9-inch baking dish with aluminum foil."
+            },
+            {
+                "step": 6,
+                "indication": "Thread 1 pineapple slice onto 2 skewers, being sure to pierce through the center core, (skewers will be about 1 inch apart), leaving a 1 1/2-inch space from end of skewer. Thread 5 to 6 pieces of marinated chicken, stacking on top of pineapple; thread 1 pineapple slice. Repeat process, ending with pineapple slice, until all chicken pieces and pineapple slices are used, making 4 stacks total. Brush with any remaining marinade from chicken."
+            },
+            {
+                "step": 7,
+                "indication": "Place stacked skewers in the prepared pan, resting skewer ends on edge of pan so that the chicken doesn't touch the bottom of the pan."
+            },
+            {
+                "step": 8,
+                "indication": "Bake in the preheated oven for 30 minutes. Flip skewers over, brush with reserved 1/2 cup marinade. Bake until chicken is no longer pink in the center and the juices run clear, about 30 minutes longer. An instant-read thermometer inserted into the center should read 160 degrees F (71 degrees C). Increase oven temperature to broil; broil until browned and crispy, 3 to 5 minutes. Flip, and broil until browned and crispy, 3 to 5 minutes."
+            },
+            {
+                "step": 9,
+                "indication": "Meanwhile, heat a large skillet over high heat. Working two at a time, add tortillas; cook, turning once, until heated and browning in some spots, 1 to 2 minutes per side. Repeat with remaining tortillas."
+            },
+            {
+                "step": 10,
+                "indication": "Remove chicken and pineapple from skewers, place on cutting board, roughly chop."
+            },
+            {
+                "step": 11,
+                "indication": "Divide chicken and pineapple between heated tortillas; top with remaining onion and cilantro."
+            }
+        ]
+    },
+    {
+        "name": "Mississippi Chicken",
+        "link": "https://www.allrecipes.com/recipe/8508920/mississippi-chicken/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "ingredientName": "skinless, boneless chicken breasts"
+            },
+            {
+                "quantity": "1",
+                "unit": "(1 ounce) package",
+                "ingredientName": "dry ranch dressing mix (such as Hidden Valley Ranch)"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "sliced and drained pepperoncini peppers"
+            },
+            {
+                "quantity": "1/4",
+                "unit": "cup",
+                "ingredientName": "pepper juice (from jar of pepperoncini peppers)"
+            },
+            {
+                "quantity": "4",
+                "unit": "tablespoons",
+                "ingredientName": "unsalted butter, sliced"
+            },
+            { "quantity": "1/2", "unit": "cup", "ingredientName": "water" }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Gather ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Season chicken with ranch seasoning mix; place in bottom of a medium Dutch oven."
+            },
+            {
+                "step": 3,
+                "indication": "Add pepperoncini peppers and 1/4 cup reserved pepper juice; top with sliced butter and pour in 1/2 cup water. Cover with a tight fitting lid, and bake in preheated oven until chicken is fork tender, 1 hour to 1 hour 15 minutes. An instant-read thermometer inserted into the center should read 165 degrees F (74 degrees C)."
+            },
+            {
+                "step": 4,
+                "indication": "Let stand 5 minutes. Shred chicken using two forks."
+            }
+        ]
+    },
+    {
+        "name": "Lasagna Flatbread",
+        "link": "https://www.allrecipes.com/recipe/255462/lasagna-flatbread/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(15 ounce) container",
+                "ingredientName": "ricotta cheese"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) package",
+                "ingredientName": "shredded mozzarella cheese, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "(3 ounce) package",
+                "ingredientName": "Parmesan cheese"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "egg" },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "ingredientName": "Italian seasoning"
+            },
+            { "quantity": "1", "unit": "pound", "ingredientName": "sausage" },
+            {
+                "quantity": "½",
+                "unit": "(26 ounce) jar",
+                "ingredientName": "marinara sauce"
+            },
+            { "quantity": "6", "unit": "", "ingredientName": "flatbreads" }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat oven to 375 degrees F (190 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Combine ricotta cheese, 1/2 of the mozzarella cheese, Parmesan cheese, egg, and Italian seasoning in a bowl."
+            },
+            {
+                "step": 3,
+                "indication": "Cook sausage in a skillet over medium heat until no longer pink, 5 to 10 minutes; drain. Stir in marinara sauce."
+            },
+            {
+                "step": 4,
+                "indication": "Spread 1/6 of the cheese mixture evenly on each flatbread; cover with sausage mixture. Top with remaining mozzarella cheese."
+            },
+            {
+                "step": 5,
+                "indication": "Bake in the preheated oven until cheese is melted and bubbly, 10 to 15 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Prosciutto-Wrapped Pork Tenderloin with Crispy Sage",
+        "link": "https://www.allrecipes.com/recipe/245210/prosciutto-wrapped-pork-tenderloin-with-crispy-sage/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "pork tenderloin"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "bunch",
+                "ingredientName": "fresh sage, leaves removed and stems discarded, divided"
+            },
+            {
+                "quantity": "6",
+                "unit": "ounces",
+                "ingredientName": "prosciutto"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "olive oil, or more as needed"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Lightly season pork with salt and black pepper. Arrange about 6 sage leaves over tenderloin. Wrap prosciutto around tenderloin and sage, overlapping prosciutto slightly; wrap in plastic wrap and refrigerate to allow prosciutto to set on pork tenderloin, 5 to 10 minutes. Remove plastic wrap."
+            },
+            {
+                "step": 3,
+                "indication": "Heat olive oil in a skillet over medium heat. Fry wrapped tenderloin in the hot oil until prosciutto is crispy and lightly browned on all sides, 8 to 10 minutes. Transfer wrapped tenderloin to a baking dish, reserving oil in the skillet."
+            },
+            {
+                "step": 4,
+                "indication": "Bake tenderloin in the preheated oven until pork is cooked through, about 20 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+            },
+            {
+                "step": 5,
+                "indication": "Heat reserved oil in the skillet over medium heat; fry remaining sage leaves until crispy, adding more oil as needed, about 5 minutes."
+            },
+            {
+                "step": 6,
+                "indication": "Slice tenderloin and serve with crispy sage leaves."
+            }
+        ]
+    },
+    {
+        "name": "Empanadas (Beef Turnovers)",
+        "link": "https://www.allrecipes.com/recipe/215231/empanadas-beef-turnovers/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "Goya Extra Virgin Olive Oil"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "½",
+                "unit": "medium",
+                "ingredientName": "yellow onion, finely chopped"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "Goya Tomato Sauce"
+            },
+            {
+                "quantity": "6",
+                "unit": "",
+                "ingredientName": "Goya Spanish Olives Stuffed with Minced Pimientos, thinly sliced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "Goya Sofrito"
+            },
+            {
+                "quantity": "1",
+                "unit": "packet",
+                "ingredientName": "Sazon Goya with Coriander and Annatto"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Goya Minced Garlic"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "Goya Dried Oregano"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "Goya Ground Black Pepper, to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) package",
+                "ingredientName": "yellow or white Goya Discos empanada discs, thawed"
+            },
+            {
+                "quantity": "1",
+                "unit": "quart",
+                "ingredientName": "Goya Corn Oil, for frying"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Heat olive oil in a large skillet over medium heat. Add ground beef; cook and stir until browned and crumbly, about 10 minutes. Add onions and cook until soft, about 5 minutes. Stir in tomato sauce, olives, sofrito, sazón, garlic, oregano, and pepper. Reduce the heat to medium-low and simmer until mixture thickens, about 15 minutes."
+            },
+            {
+                "step": 2,
+                "indication": "Roll empanada disks on a lightly floured surface until 1/2 inch larger in diameter. Spoon about 1 tablespoon meat mixture into the middle of each disk. Moisten the disk edges with water, fold in half over filling to form a half-moon, and pinch to seal (or seal with a fork)."
+            },
+            {
+                "step": 3,
+                "indication": "Heat 2 1/2 inches corn oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Working in batches, fry empanadas until crisp and golden brown, flipping once, 4 to 6 minutes. Transfer to paper towels to drain."
+            }
+        ]
+    },
+    {
+        "name": "Basic Air Fryer Hot Dogs",
+        "link": "https://www.allrecipes.com/recipe/268494/basic-air-fryer-hot-dogs/",
+        "ingredients": [
+            { "quantity": "4", "unit": "", "ingredientName": "hot dog buns" },
+            { "quantity": "4", "unit": "", "ingredientName": "hot dogs" }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat an air fryer to 400 degrees F (200 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Place buns in a single layer in the air fryer basket; cook in the preheated air fryer until crisp, about 2 minutes. Remove buns to a plate."
+            },
+            {
+                "step": 3,
+                "indication": "Place hot dogs in a single layer in the air fryer basket; cook for 3 minutes. Serve hot dogs in toasted buns."
+            }
+        ]
+    },
+    {
+        "name": "Homemade Mac and Cheese",
+        "link": "https://www.allrecipes.com/recipe/11679/homemade-mac-and-cheese/",
+        "ingredients": [
+            {
+                "quantity": "8",
+                "unit": "ounces",
+                "ingredientName": "uncooked elbow macaroni"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "salted butter"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "ingredientName": "all-purpose flour"
+            },
+            {
+                "quantity": "2 ½",
+                "unit": "cups",
+                "ingredientName": "milk, or more as needed"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "shredded sharp Cheddar cheese"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "finely grated Parmesan cheese"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste (Optional)"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking dish."
+            },
+            {
+                "step": 2,
+                "indication": "Make the macaroni and cheese: Bring a large pot of lightly salted water to a boil. Add macaroni and simmer, stirring occasionally, until tender yet firm to the bite, about 8 minutes; it will finish cooking in the oven. Drain and transfer to the prepared baking dish."
+            },
+            {
+                "step": 3,
+                "indication": "While the macaroni is cooking, melt 1/4 cup butter in a medium skillet over low heat. Whisk in flour and stir until the mixture becomes paste-like and light golden brown, 3 to 5 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Gradually whisk 2 1/2 cups milk into the flour mixture, and bring to a simmer. Stir in shredded Cheddar and finely grated Parmesan cheeses; season with salt and pepper. Cook and stir over low heat until cheese is melted and sauce has thickened, 3 to 5 minutes, adding up to 1/2 cup more milk if needed. Pour cheese sauce over macaroni and stir until well combined."
+            },
+            {
+                "step": 5,
+                "indication": "Make the bread crumb topping: Melt 2 tablespoons butter in a skillet over medium heat. Add bread crumbs; cook and stir until well coated and browned. Spread bread crumbs over macaroni and cheese, then sprinkle with paprika."
+            },
+            {
+                "step": 6,
+                "indication": "Bake in the preheated oven until topping is golden brown and macaroni and cheese is bubbling, about 30 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Slow Cooker Beef Stew",
+        "link": "https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "ingredientName": "beef stew meat, cut into 1-inch pieces"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "all-purpose flour"
+            },
+            { "quantity": "½", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "ingredientName": "beef broth"
+            },
+            {
+                "quantity": "4",
+                "unit": "medium",
+                "ingredientName": "carrots, sliced"
+            },
+            {
+                "quantity": "3",
+                "unit": "medium",
+                "ingredientName": "potatoes, diced"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "onion, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "stalk",
+                "ingredientName": "celery, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "ground paprika"
+            },
+            {
+                "quantity": "1",
+                "unit": "clove",
+                "ingredientName": "garlic, minced"
+            },
+            { "quantity": "1", "unit": "large", "ingredientName": "bay leaf" }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather ingredients." },
+            { "step": 2, "indication": "Place meat in slow cooker." },
+            {
+                "step": 3,
+                "indication": "Mix flour, salt, and pepper together in a small bowl. Pour over meat, and stir until meat is coated."
+            },
+            {
+                "step": 4,
+                "indication": "Add beef broth, carrots, potatoes, onion, celery, Worcestershire sauce, paprika, garlic, and bay leave; stir to combine."
+            },
+            {
+                "step": 5,
+                "indication": "Cover, and cook until beef is tender enough to cut with a spoon, on Low for 8 to 12 hours, or on High for 4 to 6 hours."
+            },
+            { "step": 6, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "World's Best Lasagna",
+        "link": "https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "sweet Italian sausage"
+            },
+            {
+                "quantity": "¾",
+                "unit": "pound",
+                "ingredientName": "lean ground beef"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "minced onion"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "ingredientName": "garlic, crushed"
+            },
+            {
+                "quantity": "1",
+                "unit": "(28 ounce) can",
+                "ingredientName": "crushed tomatoes"
+            },
+            {
+                "quantity": "2",
+                "unit": "(6.5 ounce) cans",
+                "ingredientName": "canned tomato sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "(6 ounce) cans",
+                "ingredientName": "tomato paste"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "water" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "white sugar"
+            },
+            {
+                "quantity": "4",
+                "unit": "tablespoons",
+                "ingredientName": "chopped fresh parsley, divided"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "ingredientName": "dried basil leaves"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "ingredientName": "salt, divided, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Italian seasoning"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "fennel seeds"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "12",
+                "unit": "",
+                "ingredientName": "lasagna noodles"
+            },
+            {
+                "quantity": "16",
+                "unit": "ounces",
+                "ingredientName": "ricotta cheese"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "egg" },
+            {
+                "quantity": "¾",
+                "unit": "pound",
+                "ingredientName": "mozzarella cheese, sliced"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "grated Parmesan cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned. Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 tablespoons parsley, basil, 1 teaspoon salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about 1 1/2 hours, stirring occasionally."
+            },
+            {
+                "step": 2,
+                "indication": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, and 1/2 teaspoon salt."
+            },
+            {
+                "step": 3,
+                "indication": "Preheat the oven to 375 degrees F (190 degrees C)."
+            },
+            {
+                "step": 4,
+                "indication": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with 1/2 of the ricotta cheese mixture. Top with 1/3 of the mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray or make sure the foil does not touch the cheese."
+            },
+            {
+                "step": 5,
+                "indication": "Bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes. Rest lasagna for 15 minutes before serving."
+            }
+        ]
+    },
+    {
+        "name": "Juicy Roasted Chicken",
+        "link": "https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "ingredientName": "whole chicken, giblets removed"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "onion powder, or to taste"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "butter or margarine"
+            },
+            {
+                "quantity": "1",
+                "unit": "stalk",
+                "ingredientName": "celery, leaves removed"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Place chicken in a roasting pan; season generously inside and out with onion powder, salt, and pepper. Place 3 tablespoons of butter in chicken cavity; arrange dollops of remaining butter on the outside of chicken. Cut celery into 3 or 4 pieces; place in the chicken cavity."
+            },
+            {
+                "step": 3,
+                "indication": "Bake chicken uncovered in the preheated oven until no longer pink at the bone and the juices run clear, about 1 hour and 15 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C)."
+            },
+            {
+                "step": 4,
+                "indication": "Remove from the oven and baste with drippings. Cover with aluminum foil and allow to rest for about 30 minutes before serving."
+            }
+        ]
+    },
+    {
+        "name": "Slow Cooker Texas Pulled Pork",
+        "link": "https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "(4 pound)",
+                "ingredientName": "pork shoulder roast"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "barbeque sauce"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "apple cider vinegar"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "chicken broth"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "light brown sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "prepared yellow mustard"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "chili powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "extra large",
+                "ingredientName": "onion, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "large cloves",
+                "ingredientName": "garlic, crushed"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "ingredientName": "dried thyme"
+            },
+            {
+                "quantity": "8",
+                "unit": "",
+                "ingredientName": "hamburger buns, split"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "butter, or as needed"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Pour vegetable oil into the bottom of a slow cooker. Place pork roast into the slow cooker; pour in barbeque sauce, vinegar, and chicken broth. Stir in brown sugar, yellow mustard, Worcestershire sauce, chili powder, onion, garlic, and thyme. Cover and cook on Low for 10 to 12 hours or High for 5 to 6 hours until pork shreds easily with a fork."
+            },
+            {
+                "step": 2,
+                "indication": "Remove pork from the slow cooker, and shred the meat using two forks. Return shredded pork to the slow cooker, and stir to combine with juices."
+            },
+            {
+                "step": 3,
+                "indication": "Spread the inside of both halves of hamburger buns with butter. Toast buns, butter-side down, in a skillet over medium heat until golden brown. Spoon pulled pork into toasted buns."
+            }
+        ]
+    },
+    {
+        "name": "Chicken Pot Pie",
+        "link": "https://www.allrecipes.com/recipe/26317/chicken-pot-pie-ix/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "skinless, boneless chicken breast halves - cubed"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "sliced carrots"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "frozen green peas"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "sliced celery"
+            },
+            { "quantity": "⅓", "unit": "cup", "ingredientName": "butter" },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "ingredientName": "chopped onion"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "ingredientName": "all-purpose flour"
+            },
+            { "quantity": "½", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "black pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "celery seed"
+            },
+            {
+                "quantity": "1 ¾",
+                "unit": "cups",
+                "ingredientName": "chicken broth"
+            },
+            { "quantity": "⅔", "unit": "cup", "ingredientName": "milk" },
+            {
+                "quantity": "2",
+                "unit": "(9 inch) ",
+                "ingredientName": "unbaked pie crusts"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Gather all ingredients and preheat the oven to 425 degrees F (220 degrees C.)"
+            },
+            {
+                "step": 2,
+                "indication": "Combine chicken, carrots, peas, and celery in a saucepan; add water to cover and bring to a boil. Boil for 15 minutes, then remove from the heat and drain."
+            },
+            {
+                "step": 3,
+                "indication": "While the chicken is cooking, melt butter in another saucepan over medium heat. Add onion and cook until soft and translucent, 5 to 7 minutes. Stir in flour, salt, pepper, and celery seed"
+            },
+            {
+                "step": 4,
+                "indication": "Slowly stir in chicken broth and milk."
+            },
+            {
+                "step": 5,
+                "indication": "Reduce heat to medium-low and simmer until thick, 5 to 10 minutes. Remove from heat and set aside."
+            },
+            {
+                "step": 6,
+                "indication": "Place chicken and vegetables in the bottom pie crust. Pour hot liquid mixture over top."
+            },
+            {
+                "step": 7,
+                "indication": "Cover with top crust, seal the edges, and cut away any excess dough. Make several small slits in the top crust to allow steam to escape."
+            },
+            {
+                "step": 8,
+                "indication": "Bake in the preheated oven until pastry is golden brown and filling is bubbly, 30 to 35 minutes. Cool for 10 minutes before serving."
+            },
+            { "step": 9, "indication": "Serve immediately and enjoy!" }
+        ]
+    },
+    {
+        "name": "Easy Meatloaf",
+        "link": "https://www.allrecipes.com/recipe/16354/easy-meatloaf/",
+        "ingredients": [
+            {
+                "quantity": "1 ½",
+                "unit": "pounds",
+                "ingredientName": "ground beef"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "egg" },
+            { "quantity": "1", "unit": "", "ingredientName": "onion, chopped" },
+            { "quantity": "1", "unit": "cup", "ingredientName": "milk" },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "dried bread crumbs"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and pepper to taste"
+            },
+            { "quantity": "⅓", "unit": "cup", "ingredientName": "ketchup" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "brown sugar"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "prepared mustard"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan."
+            },
+            {
+                "step": 2,
+                "indication": "Combine ground beef, onion, milk, bread crumbs and egg in a large bowl; season with salt and pepper. Transfer into prepared loaf pan."
+            },
+            {
+                "step": 3,
+                "indication": "Mix ketchup, brown sugar, and mustard together in a small bowl until well combined; pour over meatloaf and spread it evenly over the top."
+            },
+            {
+                "step": 4,
+                "indication": "Bake in the preheated oven until no longer pink in the center, about 1 hour."
+            }
+        ]
+    },
+    {
+        "name": "Slow-Cooker Corned Beef and Cabbage",
+        "link": "https://www.allrecipes.com/recipe/84270/slow-cooker-corned-beef-and-cabbage/",
+        "ingredients": [
+            {
+                "quantity": "10",
+                "unit": "",
+                "ingredientName": "baby red potatoes, quartered"
+            },
+            {
+                "quantity": "4",
+                "unit": "large",
+                "ingredientName": "carrots, peeled and cut into matchstick pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": "",
+                "ingredientName": "onion, peeled and cut into bite-sized pieces"
+            },
+            { "quantity": "4", "unit": "cups", "ingredientName": "water" },
+            {
+                "quantity": "1",
+                "unit": "(4 pound)",
+                "ingredientName": "corned beef brisket with spice packet"
+            },
+            { "quantity": "6", "unit": "ounces", "ingredientName": "beer" },
+            {
+                "quantity": "½",
+                "unit": "head",
+                "ingredientName": "cabbage, coarsely chopped"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Place potatoes, carrots, and onion into the bottom of a slow cooker; add water and place brisket on top of vegetables. Pour beer over brisket; sprinkle over spices from the packet and cover."
+            },
+            {
+                "step": 2,
+                "indication": "Cook on High for 7 hours; stir in the cabbage and cook for 1 more hour."
+            }
+        ]
+    },
+    {
+        "name": "Simple Macaroni and Cheese",
+        "link": "https://www.allrecipes.com/recipe/238691/simple-macaroni-and-cheese/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) box",
+                "ingredientName": "elbow macaroni"
+            },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "butter" },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "all-purpose flour"
+            },
+            { "quantity": "½", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "ground black pepper to taste"
+            },
+            { "quantity": "2", "unit": "cups", "ingredientName": "milk" },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "shredded Cheddar cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes."
+            },
+            {
+                "step": 2,
+                "indication": "At the same time, melt butter in a saucepan over medium heat."
+            },
+            {
+                "step": 3,
+                "indication": "Add flour, salt, and pepper and stir until smooth, about 5 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Pour in milk slowly, while stirring continuously. Continue to cook and stir until mixture is smooth and bubbling, about 5 minutes, making sure the milk doesn't burn."
+            },
+            {
+                "step": 5,
+                "indication": "Add Cheddar cheese and stir until melted, 2 to 4 minutes."
+            },
+            {
+                "step": 6,
+                "indication": "Drain macaroni and fold into cheese sauce until coated."
+            },
+            { "step": 7, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Chef John's Perfect Prime Rib",
+        "link": "https://www.allrecipes.com/recipe/221958/chef-johns-perfect-prime-rib/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(4 pound)",
+                "ingredientName": "prime rib roast"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "unsalted butter, softened"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "freshly ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "herbes de Provence"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "kosher salt to taste"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Place prime rib roast on a plate and bring to room temperature, 2 to 4 hours."
+            },
+            {
+                "step": 2,
+                "indication": "Preheat the oven to 500 degrees F (260 degrees C)."
+            },
+            {
+                "step": 3,
+                "indication": "Combine butter, pepper, and herbes de Provence in a bowl; mix until well blended. Spread butter mixture evenly over entire roast. Season roast generously with kosher salt."
+            },
+            {
+                "step": 4,
+                "indication": "Roast the 4-pound roast in the preheated oven for 20 minutes. (If your roast is larger or smaller than 4 pounds, multiply the exact weight times 5 minutes.)"
+            },
+            {
+                "step": 5,
+                "indication": "Turn the oven off and, leaving the roast in the oven with the door closed, let the roast sit in the oven for 2 hours."
+            },
+            {
+                "step": 6,
+                "indication": "Remove roast from the oven, slice, and serve."
+            }
+        ]
+    },
+    {
+        "name": "Spaghetti Aglio e Olio",
+        "link": "https://www.allrecipes.com/recipe/222000/spaghetti-aglio-e-olio/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "uncooked spaghetti"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "olive oil" },
+            {
+                "quantity": "6",
+                "unit": "cloves",
+                "ingredientName": "garlic, thinly sliced"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "red pepper flakes, or to taste"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and freshly ground black pepper to taste"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "chopped fresh Italian parsley"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "finely grated Parmigiano-Reggiano cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 10 to 12 minutes. Drain and transfer to a pasta bowl."
+            },
+            {
+                "step": 2,
+                "indication": "While the pasta is cooking, combine olive oil and garlic in a cold skillet. Cook over medium heat to slowly toast garlic, about 10 minutes. Reduce heat to medium-low when olive oil begins to bubble. Cook and stir until garlic is golden brown, about another 5 minutes. Remove from heat."
+            },
+            {
+                "step": 3,
+                "indication": "Stir red pepper flakes, salt, and black pepper into pasta. Pour in hot olive oil and garlic, and sprinkle on Italian parsley and half of the Parmigiano-Reggiano cheese; toss until combined."
+            },
+            {
+                "step": 4,
+                "indication": "Serve pasta topped with the remaining Parmigiano-Reggiano cheese."
+            }
+        ]
+    },
+    {
+        "name": "Corned Beef and Cabbage",
+        "link": "https://www.allrecipes.com/recipe/16310/corned-beef-and-cabbage-i/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "ingredientName": "corned beef brisket with spice packet"
+            },
+            {
+                "quantity": "10",
+                "unit": "small",
+                "ingredientName": "red potatoes"
+            },
+            { "quantity": "5", "unit": "medium", "ingredientName": "carrots" },
+            {
+                "quantity": "1",
+                "unit": "large head",
+                "ingredientName": "cabbage"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Place corned beef in a Dutch oven and cover with water. Add spice packet, cover, and bring to a boil. Reduce heat and simmer until corned beef is just about fork-tender, about 2 hours."
+            },
+            {
+                "step": 3,
+                "indication": "While the corned beef is simmering, cut potatoes in half. Peel carrots and cut into 3-inch pieces. Cut cabbage into small wedges."
+            },
+            {
+                "step": 4,
+                "indication": "When corned beef has cooked for 2 hours, add potatoes and carrots; cook until vegetables are almost tender and meat is fork-tender, about 10 minutes. Add cabbage and cook until tender, about 15 more minutes."
+            },
+            {
+                "step": 5,
+                "indication": "Remove meat and let rest for 15 minutes. Leave broth and vegetables in the Dutch oven.Slice meat across the grain. Serve with vegetables and broth."
+            }
+        ]
+    },
+    {
+        "name": "Homemade Dumplings",
+        "link": "https://www.allrecipes.com/recipe/6900/dumplings/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "all-purpose flour"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "ingredientName": "baking powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "white sugar"
+            },
+            { "quantity": "½", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "margarine"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "milk" }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Stir together flour, baking powder, sugar, and salt in a bowl."
+            },
+            {
+                "step": 2,
+                "indication": "Cut in butter until mixture is crumbly. Stir in milk and mix until a batter forms that is thick enough to be scooped with a spoon. Allow batter to rest for 3 to 5 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "Drop batter by spoonfuls into boiling stew or soup. Cover and simmer without lifting the lid for 15 minutes. Serve."
+            },
+            { "step": 4, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Sloppy Joes",
+        "link": "https://www.allrecipes.com/recipe/24264/sloppy-joes-ii/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "lean ground beef"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "chopped onion"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "chopped green bell pepper"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "ketchup, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "brown sugar, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "yellow mustard, or to taste"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "garlic powder"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "6",
+                "unit": "",
+                "ingredientName": "hamburger buns, split"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes."
+            },
+            {
+                "step": 2,
+                "indication": "Stir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "Divide meat mixture evenly among hamburger buns."
+            }
+        ]
+    },
+    {
+        "name": "Roasted Pork Loin",
+        "link": "https://www.allrecipes.com/recipe/21766/roasted-pork-loin/",
+        "ingredients": [
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "ingredientName": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "dried rosemary"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and pepper to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "ingredientName": "boneless pork loin roast"
+            },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "olive oil" },
+            { "quantity": "½", "unit": "cup", "ingredientName": "white wine" }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Preheat oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 3,
+                "indication": "Crush garlic with rosemary, salt, and pepper in a mortar and pestle to make a paste."
+            },
+            {
+                "step": 4,
+                "indication": "Pierce meat with a sharp knife in several places and press garlic paste into the openings. Rub pork loin with the remaining garlic mixture and olive oil. Set into an oven-safe pan."
+            },
+            {
+                "step": 5,
+                "indication": "Place pork loin into the preheated oven, turning and basting with pan liquids every 30 minutes. Cook until the pork is no longer pink in the center, 90 minutes to 2 hours. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Remove roast to a platter and keep warm."
+            },
+            {
+                "step": 6,
+                "indication": "Place pan onto the stove over medium-high heat and pour wine into it. Heat wine and stir to loosen browned bits from the bottom of the pan. Simmer for 3 to 5 minutes."
+            },
+            {
+                "step": 7,
+                "indication": "Slice pork loin and serve with pan juices."
+            }
+        ]
+    },
+    {
+        "name": "Chicken Parmesan",
+        "link": "https://www.allrecipes.com/recipe/223042/chicken-parmesan/",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "unit": "",
+                "ingredientName": "skinless, boneless chicken breast halves"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and freshly ground black pepper to taste"
+            },
+            { "quantity": "2", "unit": "large", "ingredientName": "eggs" },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "panko bread crumbs, or more as needed"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "grated Parmesan cheese, divided"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "all-purpose flour, or more if needed"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "olive oil for frying, or as needed"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "prepared tomato sauce"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "fresh mozzarella, cut into small cubes"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "chopped fresh basil"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "grated provolone cheese"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "ingredientName": "olive oil"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat an oven to 450 degrees F (230 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Place chicken breasts between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound chicken with the smooth side of a meat mallet to a thickness of 1/2-inch."
+            },
+            {
+                "step": 3,
+                "indication": "Season chicken thoroughly with salt and pepper. Using a sifter or strainer; sprinkle flour over chicken breasts, evenly coating both sides"
+            },
+            {
+                "step": 4,
+                "indication": "Beat eggs in a shallow bowl and set aside."
+            },
+            {
+                "step": 5,
+                "indication": "Mix bread crumbs and 1/2 cup Parmesan cheese in a separate bowl, set aside."
+            },
+            {
+                "step": 6,
+                "indication": "Dip a flour-coated chicken breast in beaten eggs. Transfer breast to the bread crumb mixture, pressing crumbs into both sides. Repeat for each breast. Let chicken rest for 10 to 15 minutes."
+            },
+            {
+                "step": 7,
+                "indication": "Heat 1/2 inch olive oil in a large skillet on medium-high heat until it begins to shimmer. Cook chicken in the hot oil until golden, about 2 minutes per side. The chicken will finish cooking in the oven."
+            },
+            {
+                "step": 8,
+                "indication": "Transfer chicken to a baking dish. Top each breast with 2 tablespoons tomato sauce. Layer each chicken breast with equal amounts of mozzarella cheese, fresh basil, and provolone cheese. Sprinkle remaining Parmesan over top and drizzle each with 1/2 teaspoon olive oil."
+            },
+            {
+                "step": 9,
+                "indication": "Bake in the preheated oven until cheese is browned and bubbly and chicken breasts are no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+            }
+        ]
+    },
+    {
+        "name": "Cast Iron Pan-Seared Steak (Oven-Finished)",
+        "link": "https://www.allrecipes.com/recipe/262181/cast-iron-pan-seared-steak-oven-finished/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "(6 ounce)",
+                "ingredientName": "beef top sirloin steaks"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "orange juice"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "apple cider vinegar"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "ingredientName": "steak seasoning (such as Fiesta Brand® Uncle Chris'), or to taste"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "freshly ground black pepper to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "sea salt to taste"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Place steaks side by side in large casserole dish. Add orange juice, cider vinegar, and Worcestershire sauce."
+            },
+            {
+                "step": 3,
+                "indication": "Marinate, uncovered, in the refrigerator for 45 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Preheat the oven to 425 degrees F (220 degrees C)."
+            },
+            {
+                "step": 5,
+                "indication": "Remove casserole dish from refrigerator. Cover steaks with plastic wrap and let allow to come to room temperature, at least 15 minutes."
+            },
+            {
+                "step": 6,
+                "indication": "Place steaks on a clean work surface and generously rub with steak seasoning and black pepper."
+            },
+            {
+                "step": 7,
+                "indication": "Heat olive oil in a cast-iron skillet over high heat."
+            },
+            {
+                "step": 8,
+                "indication": "Cook steaks in the hot skillet until lightly browned on the bottom, 2 1/2 minutes."
+            },
+            {
+                "step": 9,
+                "indication": "Flip and cook until browned on the other side and red in the center, about 2 minutes more."
+            },
+            {
+                "step": 10,
+                "indication": "Transfer skillet with the steaks to the oven."
+            },
+            {
+                "step": 11,
+                "indication": "Bake in the preheated oven until steaks are firm and reddish-pink to lightly pink in the center, 8 to 10 minutes. An instant-read thermometer inserted into the center should read from 130 degrees F (54 degrees C) to 140 degrees F (60 degrees C)."
+            },
+            {
+                "step": 12,
+                "indication": "Remove steaks from oven; season with salt. Let rest for 5 minutes before serving."
+            },
+            { "step": 13, "indication": "Enjoy!" }
+        ]
+    },
+    {
+        "name": "To Die For Fettuccine Alfredo",
+        "link": "https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/",
+        "ingredients": [
+            {
+                "quantity": "24",
+                "unit": "ounces",
+                "ingredientName": "dry fettuccine pasta"
+            },
+            { "quantity": "1", "unit": "cup", "ingredientName": "butter" },
+            {
+                "quantity": "¾",
+                "unit": "pint",
+                "ingredientName": "heavy cream"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "dash",
+                "ingredientName": "garlic salt"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "grated Romano cheese"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "grated Parmesan cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Bring a large pot of lightly salted water to a boil. Add fettuccine and cook for 8 to 10 minutes or until al dente; drain."
+            },
+            {
+                "step": 2,
+                "indication": "Melt butter into cream in a large saucepan over low heat; add salt, pepper, and garlic salt. Increase the heat to medium; stir in grated Romano and Parmesan cheese until melted and sauce has thickened."
+            },
+            {
+                "step": 3,
+                "indication": "Add cooked pasta to sauce and toss until thoroughly coated; serve immediately."
+            }
+        ]
+    },
+    {
+        "name": "Quick Beef Stir-Fry",
+        "link": "https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "beef sirloin, cut into 2-inch strips"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "ingredientName": "fresh broccoli florets"
+            },
+            {
+                "quantity": "1",
+                "unit": "",
+                "ingredientName": "red bell pepper, cut into matchsticks"
+            },
+            {
+                "quantity": "2",
+                "unit": "",
+                "ingredientName": "carrots, thinly sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": "",
+                "ingredientName": "green onion, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "minced garlic"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "soy sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "sesame seeds, toasted"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "Move beef to the side of the wok and add broccoli, bell pepper, carrots, green onion, and garlic to the center of the wok. Cook and stir vegetables for 2 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Stir beef into vegetables and season with soy sauce and sesame seeds. Continue to cook and stir until vegetables are tender, about 2 more minutes."
+            },
+            { "step": 5, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Absolute Best Liver and Onions",
+        "link": "https://www.allrecipes.com/recipe/58942/absolute-best-liver-and-onions/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "ingredientName": "sliced beef liver"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "ingredientName": "milk, or as needed"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "butter, divided"
+            },
+            {
+                "quantity": "2",
+                "unit": "large",
+                "ingredientName": "Vidalia onions, sliced into rings"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "all-purpose flour, or as needed"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and pepper to taste"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Gently rinse liver slices under cold water and pat dry with paper towels. Place in a shallow dish; pour in enough milk to cover. Let stand while preparing onions, or set aside for longer if you have time. Soaking will remove any bitterness."
+            },
+            {
+                "step": 2,
+                "indication": "Melt 2 tablespoons of butter in a large skillet over medium heat. Add onion rings; cook and stir in butter until tender and soft, about 3 to 5 minutes. Transfer onions into a bowl and set the skillet aside."
+            },
+            {
+                "step": 3,
+                "indication": "Place flour on a plate; season with salt and pepper. Drain milk from liver and coat liver slices in flour mixture."
+            },
+            {
+                "step": 4,
+                "indication": "Melt remaining 2 tablespoons of butter in the same skillet; increase heat to medium-high and fry coated liver slices until lightly browned, about 3 to 4 minutes on each side. Return onions to the skillet and reduce heat to medium; continue to cook until onions are heated through and liver is slightly pink inside, or longer to suit your taste."
+            }
+        ]
+    },
+    {
+        "name": "Marie's Easy Slow Cooker Pot Roast",
+        "link": "https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "unit": "pounds",
+                "ingredientName": "chuck roast"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and pepper to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "packet",
+                "ingredientName": "dry onion soup mix"
+            },
+            { "quantity": "1", "unit": "cup", "ingredientName": "water" },
+            {
+                "quantity": "3",
+                "unit": "",
+                "ingredientName": "carrots, chopped"
+            },
+            {
+                "quantity": "3",
+                "unit": "",
+                "ingredientName": "potatoes, peeled and cubed"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "onion, chopped" },
+            {
+                "quantity": "1",
+                "unit": "stalk",
+                "ingredientName": "celery, chopped"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Season chuck roast with salt and pepper. Heat oil in a large skillet over high heat; add roast and sear to brown, about 4 minutes per side."
+            },
+            {
+                "step": 2,
+                "indication": "Place roast in the slow cooker and sprinkle soup mix on top. Add water, and scatter carrots, potatoes, onion, and celery on top."
+            },
+            {
+                "step": 3,
+                "indication": "Cover and cook on Low for 8 to 10 hours."
+            }
+        ]
+    },
+    {
+        "name": "Turkey in a Smoker",
+        "link": "https://www.allrecipes.com/recipe/16984/turkey-in-a-smoker/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(10 pound)",
+                "ingredientName": "whole turkey, neck and giblets removed"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "ingredientName": "garlic, crushed"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "seasoned salt"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "butter" },
+            {
+                "quantity": "2",
+                "unit": "(12 fluid ounce) cans",
+                "ingredientName": "cola-flavored carbonated beverage"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "apple, quartered"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "onion, quartered"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "garlic powder"
+            },
+            { "quantity": "1", "unit": "tablespoon", "ingredientName": "salt" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "hickory wood chips, or more as needed (Optional)"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat a smoker to 225 to 250 degrees F (110 to 120 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Rinse turkey under cold water, and pat dry."
+            },
+            {
+                "step": 3,
+                "indication": "Rub crushed garlic over the outside of the turkey, and sprinkle with seasoned salt. Transfer to a disposable roasting pan."
+            },
+            {
+                "step": 4,
+                "indication": "Fill the turkey cavity with butter, cola, apple, onion, garlic powder, salt, and pepper. Cover turkey loosely with foil."
+            },
+            {
+                "step": 5,
+                "indication": "Add wood chips to the smoker according to the manufacturer's directions. Place the roasting pan in the preheated smoker. Smoke the turkey, basting every 1 to 2 hours with juices from the bottom of the roasting pan, for 5 hours."
+            },
+            {
+                "step": 6,
+                "indication": "Add more wood chips if desired. Continue smoking and basting, until turkey is no longer pink at the bone and the juices run clear, about 5 more hours. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 180 degrees F (80 degrees C)."
+            }
+        ]
+    },
+    {
+        "name": "Juicy Thanksgiving Turkey",
+        "link": "https://www.allrecipes.com/recipe/166160/juicy-thanksgiving-turkey/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "dried parsley"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "ground dried rosemary"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "rubbed dried sage"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "dried thyme leaves"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "lemon-pepper seasoning"
+            },
+            { "quantity": "1", "unit": "tablespoon", "ingredientName": "salt" },
+            {
+                "quantity": "1",
+                "unit": "(15 pound)",
+                "ingredientName": "whole turkey, neck and giblets removed"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "orange, cut into 8 wedges"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "onion, chopped into large pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "ingredientName": "carrot, cut into 1/2-inch slices"
+            },
+            {
+                "quantity": "2",
+                "unit": "stalks",
+                "ingredientName": "celery, cut into 1/2-inch slices"
+            },
+            {
+                "quantity": "1",
+                "unit": "(750 milliliter) bottle",
+                "ingredientName": "champagne"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14.5 ounce) can",
+                "ingredientName": "chicken broth"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C). Line a roaster with sheets of aluminum foil long enough to wrap around turkey."
+            },
+            {
+                "step": 2,
+                "indication": "Stir together parsley, rosemary, sage, thyme, lemon-pepper seasoning, and salt in a small bowl."
+            },
+            {
+                "step": 3,
+                "indication": "Rub herb mixture into the turkey cavity, then stuff with orange wedges, onion, carrot and celery. Tie the legs together with kitchen string, then tuck the wings under the body. Place turkey on the foil in the roasting pan."
+            },
+            {
+                "step": 4,
+                "indication": "Pour champagne and chicken broth over turkey, making sure to get some liquid in the cavity. Bring aluminum foil up and over the top of turkey and seal; try to keep the foil from touching the turkey."
+            },
+            {
+                "step": 5,
+                "indication": "Roast turkey in the preheated oven until juices run clear, 2 1/2 to 3 hours. Uncover turkey and continue baking until the skin turns golden brown, 30 to 60 more minutes. An instant-read thermometer inserted into the thickest part of thigh, near the bone, should read 180 degrees F (82 degrees C)."
+            },
+            {
+                "step": 6,
+                "indication": "Remove turkey from the oven, cover with two sheets of aluminum foil, and allow to rest in a warm area before slicing, 10 to 15 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Salisbury Steak",
+        "link": "https://www.allrecipes.com/recipe/14595/salisbury-steak/",
+        "ingredients": [
+            {
+                "quantity": "1 ½",
+                "unit": "pounds",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "1",
+                "unit": "(10.5 ounce) can",
+                "ingredientName": "condensed French onion soup"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "dry bread crumbs"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "egg" },
+            { "quantity": "¼", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "all-purpose flour"
+            },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "ketchup" },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "water" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "mustard powder"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Combine ground beef, 1/3 cup condensed soup, bread crumbs, egg, salt, and black pepper in a large bowl. Shape into 6 oval patties."
+            },
+            {
+                "step": 2,
+                "indication": "Heat a large skillet over medium-high heat; add patties and brown on both sides. Drain excess fat."
+            },
+            {
+                "step": 3,
+                "indication": "Blend remaining soup and flour together in a small bowl until smooth; mix in ketchup, water, Worcestershire sauce, and mustard. Pour soup mixture over patties in the skillet. Cover, and cook for 20 minutes, stirring occasionally."
+            }
+        ]
+    },
+    {
+        "name": "Oven-Roasted Turkey Breast",
+        "link": "https://www.allrecipes.com/recipe/229658/oven-roasted-turkey-breast/",
+        "ingredients": [
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "butter, softened"
+            },
+            {
+                "quantity": "1",
+                "unit": "clove",
+                "ingredientName": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "paprika"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Italian seasoning"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "salt-free garlic and herb seasoning blend (such as Mrs. Dash®)"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "ingredientName": "turkey breast with skin"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "minced shallot"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "butter"
+            },
+            {
+                "quantity": "1",
+                "unit": "splash",
+                "ingredientName": "dry white wine"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "chicken stock"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "ingredientName": "all-purpose flour"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "half-and-half (Optional)"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Mix together 1/4 cup butter, garlic, paprika, Italian seasoning, garlic and herb seasoning, salt, and black pepper in a bowl."
+            },
+            {
+                "step": 3,
+                "indication": "Place turkey breast with skin side up into a roasting pan. Loosen skin with your fingers; brush half the butter mixture over the turkey breast and underneath the skin. Reserve remaining butter mixture. Tent turkey breast loosely with aluminum foil."
+            },
+            {
+                "step": 4,
+                "indication": "Roast in the preheated oven for 1 hour; baste turkey breast with remaining butter mixture. Return to oven and roast until the juices run clear and an instant-read meat thermometer inserted into the thickest part of the breast, not touching bone, reads 165 degrees F (65 degrees C), about 30 more minutes. Let turkey breast rest 10 to 15 minutes before serving."
+            },
+            {
+                "step": 5,
+                "indication": "While turkey is resting, transfer pan drippings to a skillet. Skim off excess grease, leaving about 1 tablespoon in skillet. Place skillet over low heat; cook and stir shallot in turkey grease until opaque, about 5 minutes."
+            },
+            {
+                "step": 6,
+                "indication": "Melt 1 tablespoon butter in skillet with shallot and whisk in white wine, scraping any browned bits of food from skillet. Whisk in chicken stock and flour until smooth. Bring to a simmer, whisking constantly, until thickened. For a creamier, lighter gravy, whisk in half-and-half."
+            },
+            { "step": 7, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Chef John's Italian Meatballs",
+        "link": "https://www.allrecipes.com/recipe/220854/chef-johns-italian-meatballs/",
+        "ingredients": [
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "ingredientName": "plain bread crumbs"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "milk" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "onion, diced" },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground pork"
+            },
+            { "quantity": "2", "unit": "", "ingredientName": "eggs" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "grated Parmesan cheese"
+            },
+            {
+                "quantity": "¼",
+                "unit": "bunch",
+                "ingredientName": "fresh parsley, chopped"
+            },
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "ingredientName": "garlic, crushed"
+            },
+            { "quantity": "2", "unit": "teaspoons", "ingredientName": "salt" },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "dried Italian herb seasoning"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "red pepper flakes"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Cover a baking sheet with foil and spray lightly with cooking spray. Soak bread crumbs in milk in a small bowl for 20 minutes."
+            },
+            {
+                "step": 2,
+                "indication": "Meanwhile, heat olive oil in a skillet over medium heat. Add onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue cooking and stirring until onion is very tender, about 15 minutes more."
+            },
+            {
+                "step": 3,
+                "indication": "Gently stir beef and pork together in a large bowl. Add onions, bread crumb mixture, eggs, Parmesan cheese, parsley, garlic, salt, black pepper, Italian herb seasoning, and red pepper flakes; mix together using a rubber spatula until combined. Cover and refrigerate for about one hour."
+            },
+            {
+                "step": 4,
+                "indication": "Preheat the oven to 425 degrees F (220 degrees C)."
+            },
+            {
+                "step": 5,
+                "indication": "Form mixture into balls about 1 1/2 inches in diameter; arrange in a single layer on the prepared baking sheet."
+            },
+            {
+                "step": 6,
+                "indication": "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Pesto Pasta",
+        "link": "https://www.allrecipes.com/recipe/11887/pesto-pasta/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(16 ounce) package",
+                "ingredientName": "pasta"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "chopped onion"
+            },
+            {
+                "quantity": "2 ½",
+                "unit": "tablespoons",
+                "ingredientName": "pesto"
+            },
+            { "quantity": "", "unit": "", "ingredientName": "salt to taste" },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "ground black pepper to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "grated Parmesan cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl."
+            },
+            {
+                "step": 2,
+                "indication": "Meanwhile, heat oil in a frying pan over medium-low heat. Add onion; cook and stir until softened, about 3 minutes. Stir in pesto, salt, and pepper until warmed through."
+            },
+            {
+                "step": 3,
+                "indication": "Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat."
+            }
+        ]
+    },
+    {
+        "name": "Chicken Stir-Fry",
+        "link": "https://www.allrecipes.com/recipe/223382/chicken-stir-fry/",
+        "ingredients": [
+            { "quantity": "4", "unit": "cups", "ingredientName": "water" },
+            { "quantity": "2", "unit": "cups", "ingredientName": "white rice" },
+            { "quantity": "⅔", "unit": "cup", "ingredientName": "soy sauce" },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "brown sugar" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "cornstarch"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "minced fresh ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "minced garlic"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "red pepper flakes"
+            },
+            {
+                "quantity": "3",
+                "unit": "",
+                "ingredientName": "skinless, boneless chicken breast halves, thinly sliced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "sesame oil, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "head",
+                "ingredientName": "broccoli, broken into florets"
+            },
+            {
+                "quantity": "1",
+                "unit": "",
+                "ingredientName": "onion, cut into large chunks"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "sliced carrots"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) can",
+                "ingredientName": "sliced water chestnuts, drained"
+            },
+            {
+                "quantity": "1",
+                "unit": "",
+                "ingredientName": "green bell pepper, cut into matchsticks"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Bring water and rice to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender, and liquid has been absorbed, 20 to 25 minutes."
+            },
+            {
+                "step": 2,
+                "indication": "Meanwhile, combine soy sauce, brown sugar, and cornstarch in a medium glass or ceramic bowl; stir until smooth. Stir in ginger, garlic, and red pepper flakes; add chicken and stir to coat. Cover and marinate in the refrigerator for at least 15 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "Heat 1 tablespoon sesame oil in a wok or large skillet over medium-high heat. Add broccoli, onion, carrots, water chestnuts, and bell pepper; cook and stir until just tender, about 5 minutes. Transfer vegetables into a dish; set aside."
+            },
+            {
+                "step": 4,
+                "indication": "Heat remaining 1 tablespoon sesame oil in the same wok or skillet over medium-high heat. Add chicken, reserving marinade, and cook until just browned, about 2 minutes per side; stir in vegetables and reserved marinade. Bring to a boil; cook and stir until chicken is no longer pink in the center and vegetables are tender, 5 to 7 minutes. Serve over rice."
+            }
+        ]
+    },
+    {
+        "name": "A Simply Perfect Roast Turkey",
+        "link": "https://www.allrecipes.com/recipe/56348/a-simply-perfect-roast-turkey/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(18 pound)",
+                "ingredientName": "whole turkey"
+            },
+            {
+                "quantity": "8",
+                "unit": "cups",
+                "ingredientName": "prepared stuffing"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "unsalted butter, softened"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and freshly ground black pepper to taste"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "quarts",
+                "ingredientName": "turkey stock, divided"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 325 degrees F (165 degrees C). Place a rack in the lowest position of the oven."
+            },
+            {
+                "step": 2,
+                "indication": "Remove turkey neck and giblets. Rinse turkey and pat dry with paper towels."
+            },
+            {
+                "step": 3,
+                "indication": "Place turkey, breast-side up, on a rack in a roasting pan. Loosely fill turkey cavity with stuffing. Rub skin with butter, then season with salt and pepper."
+            },
+            {
+                "step": 4,
+                "indication": "Pour 2 cups of turkey stock into the roasting pan. Loosely tent turkey with aluminum foil."
+            },
+            {
+                "step": 5,
+                "indication": "Roast turkey for 2 1/2 hours, basting with pan juices every 30 minutes. When drippings evaporate, add remaining stock to the pan, 1 to 2 cups at a time."
+            },
+            {
+                "step": 6,
+                "indication": "Remove foil and continue roasting until a meat thermometer inserted in thickest part of thigh reads 165 degrees F (75 degrees C), about 1 1/2 hours more."
+            },
+            {
+                "step": 7,
+                "indication": "Transfer turkey to a large serving platter. Let stand for 20 to 30 minutes before carving."
+            }
+        ]
+    },
+    {
+        "name": "Best Tuna Casserole",
+        "link": "https://www.allrecipes.com/recipe/17219/best-tuna-casserole/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(12 ounce) package",
+                "ingredientName": "egg noodles"
+            },
+            {
+                "quantity": "2",
+                "unit": "(10.5 ounce) cans",
+                "ingredientName": "condensed cream of mushroom soup"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "shredded Cheddar cheese, divided"
+            },
+            {
+                "quantity": "2",
+                "unit": "(5 ounce) cans",
+                "ingredientName": "tuna, drained"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "frozen green peas"
+            },
+            {
+                "quantity": "½",
+                "unit": "(4.5 ounce) can",
+                "ingredientName": "sliced mushrooms"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "chopped onion"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "crushed potato chips"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes; drain."
+            },
+            {
+                "step": 3,
+                "indication": "Meanwhile, preheat the oven to 425 degrees F (220 degrees C)."
+            },
+            {
+                "step": 4,
+                "indication": "Mix noodles, condensed soup, 1 cup cheese, tuna, peas, mushrooms, and onion in a large bowl until well combined."
+            },
+            {
+                "step": 5,
+                "indication": "Transfer the mixture into a 9x13-inch baking dish."
+            },
+            {
+                "step": 6,
+                "indication": "Top the mixture with crushed potato chip and remaining 1 cup of cheese."
+            },
+            {
+                "step": 7,
+                "indication": "Bake in the preheated oven until cheese is bubbly, about 15 to 20 minutes."
+            },
+            { "step": 8, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Tater Tot Casserole",
+        "link": "https://www.allrecipes.com/recipe/222037/tater-tots-r-casserole/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "1",
+                "unit": "(10.5 ounce) can",
+                "ingredientName": "condensed cream of mushroom soup"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "(16 ounce) package",
+                "ingredientName": "frozen tater tots"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "shredded Cheddar cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until completely browned and crumbly, 7 to 10 minutes. Stir in condensed soup; season with salt and black pepper."
+            },
+            {
+                "step": 3,
+                "indication": "Transfer beef mixture to a 9x13-inch baking dish; layer tater tots evenly on top and sprinkle with Cheddar cheese."
+            },
+            {
+                "step": 4,
+                "indication": "Bake in the preheated oven until tater tots are golden brown and hot, 30 to 45 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Roast Spatchcock Turkey",
+        "link": "https://www.allrecipes.com/recipe/245534/roast-spatchcock-turkey/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(10 pound)",
+                "ingredientName": "whole turkey"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "olive oil" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "chopped fresh sage"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "fresh thyme leaves"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "finely chopped fresh rosemary"
+            },
+            { "quantity": "1", "unit": "tablespoon", "ingredientName": "salt" },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "crushed black pepper"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather ingredients." },
+            {
+                "step": 2,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C). Place a roasting rack on a baking sheet."
+            },
+            {
+                "step": 3,
+                "indication": "Place turkey, breast-side down, on a cutting board. Using a pair of sharp heavy-duty kitchen shears, cut along one side of the backbone."
+            },
+            {
+                "step": 4,
+                "indication": "Repeat on the other side of the backbone. Remove backbone and reserve for making turkey stock for gravy."
+            },
+            {
+                "step": 5,
+                "indication": "Press firmly down onto both sides of turkey to flatten."
+            },
+            {
+                "step": 6,
+                "indication": "Flip turkey breast-side up and put on the roasting rack. Tuck wing tips under turkey (behind breast). Pat skin dry and rub olive oil over entire turkey. Season with sage, thyme, rosemary, salt, and pepper."
+            },
+            {
+                "step": 7,
+                "indication": "Roast in the preheated oven for 1 hour 30 minutes, rotating the baking sheet every 30 minutes."
+            },
+            {
+                "step": 8,
+                "indication": "Increase the oven temperature to 400 degrees F (200 degrees C) and continue to roast until skin is crisp and golden, about 15 minutes more. An instant-read thermometer inserted into the thickest part of the thigh should read 165 degrees F (74 degrees C)."
+            },
+            {
+                "step": 9,
+                "indication": "Remove turkey from the oven, cover loosely with a doubled sheet of aluminum foil, and allow to rest for 10 to 15 minutes before slicing."
+            },
+            { "step": 10, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Authentic Louisiana Red Beans and Rice",
+        "link": "https://www.allrecipes.com/recipe/58211/authentic-louisiana-red-beans-and-rice/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "dry kidney beans"
+            },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "olive oil" },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "ingredientName": "onion, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "",
+                "ingredientName": "green bell pepper, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "stalks",
+                "ingredientName": "celery, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "minced garlic"
+            },
+            { "quantity": "6", "unit": "cups", "ingredientName": "water" },
+            { "quantity": "2", "unit": "", "ingredientName": "bay leaves" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "dried parsley"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "dried thyme"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Cajun seasoning"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "cayenne pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "dried sage"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "andouille sausage, sliced"
+            },
+            { "quantity": "4", "unit": "cups", "ingredientName": "water" },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "long grain white rice"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Rinse beans, and then soak in a large pot of water overnight."
+            },
+            {
+                "step": 3,
+                "indication": "Heat oil in a skillet over medium heat. Cook onion, bell pepper, celery, and garlic in olive oil for 3 to 4 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Rinse beans, and transfer to a large pot with 6 cups water. Stir cooked vegetables into beans. Season with bay leaves, parsley, thyme, Cajun seasoning, cayenne pepper, and sage. Bring to a boil, and then reduce heat to medium-low. Simmer for 2 1/2 hours."
+            },
+            {
+                "step": 5,
+                "indication": "Stir sausage into beans, and continue to simmer for 30 minutes."
+            },
+            {
+                "step": 6,
+                "indication": "Meanwhile, prepare the rice. Bring water and rice to a boil in a saucepan. Reduce heat, cover, and simmer for 20 minutes. Serve beans over steamed white rice."
+            }
+        ]
+    },
+    {
+        "name": "Baked Ziti",
+        "link": "https://www.allrecipes.com/recipe/11758/baked-ziti-i/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "dry ziti pasta"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "onion, chopped" },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "lean ground beef"
+            },
+            {
+                "quantity": "2",
+                "unit": "(26 ounce) jars",
+                "ingredientName": "spaghetti sauce"
+            },
+            {
+                "quantity": "6",
+                "unit": "ounces",
+                "ingredientName": "provolone cheese, sliced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "ingredientName": "sour cream"
+            },
+            {
+                "quantity": "6",
+                "unit": "ounces",
+                "ingredientName": "mozzarella cheese, shredded"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "grated Parmesan cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain."
+            },
+            {
+                "step": 2,
+                "indication": "Meanwhile, brown ground beef and onion in a large skillet over medium heat; stir in spaghetti sauce and simmer for 15 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish."
+            },
+            {
+                "step": 4,
+                "indication": "Spread 1/2 of the ziti in the bottom of the prepared dish; top with Provolone cheese, sour cream, 1/2 of the meat sauce, remaining ziti, mozzarella cheese, and remaining meat sauce. Top with grated Parmesan cheese."
+            },
+            {
+                "step": 5,
+                "indication": "Bake in the preheated oven until heated through and cheeses have melted, about 30 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Hamburger Steak with Onions and Gravy",
+        "link": "https://www.allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "bread crumbs"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "egg" },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "seasoned salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "onion powder"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "garlic powder"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "thinly sliced onion"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "all-purpose flour"
+            },
+            { "quantity": "1", "unit": "cup", "ingredientName": "beef broth" },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "cooking sherry"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "seasoned salt"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined. Form into 8 balls and flatten into patties."
+            },
+            {
+                "step": 2,
+                "indication": "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm."
+            },
+            {
+                "step": 3,
+                "indication": "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Reduce heat to low, return patties to the gravy, cover, and simmer until cooked through, about 15 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Shrimp Scampi with Pasta",
+        "link": "https://www.allrecipes.com/recipe/229960/shrimp-scampi-with-pasta/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(16 ounce) package",
+                "ingredientName": "linguine pasta"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "butter"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "extra-virgin olive oil"
+            },
+            {
+                "quantity": "2",
+                "unit": "",
+                "ingredientName": "shallots, finely diced"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "ingredientName": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "ingredientName": "red pepper flakes (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "shrimp, peeled and deveined"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "ingredientName": "kosher salt and freshly ground pepper"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "dry white wine"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "lemon, juiced" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "butter"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "extra-virgin olive oil"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "finely chopped fresh parsley leaves"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "extra-virgin olive oil, or to taste"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather ingredients." },
+            {
+                "step": 2,
+                "indication": "Bring a large pot of salted water to a boil; cook linguine in boiling water until nearly tender, 6 to 8 minutes. Drain."
+            },
+            {
+                "step": 3,
+                "indication": "Melt 2 tablespoons butter with 2 tablespoons olive oil in a large skillet over medium heat."
+            },
+            {
+                "step": 4,
+                "indication": "Cook and stir shallots, garlic, and red pepper flakes in the hot butter and oil until shallots are translucent, 3 to 4 minutes."
+            },
+            {
+                "step": 5,
+                "indication": "Season shrimp with kosher salt and black pepper; add to the skillet and cook until pink, stirring occasionally, 2 to 3 minutes. Remove shrimp from skillet and keep warm."
+            },
+            {
+                "step": 6,
+                "indication": "Pour white wine and lemon juice into skillet and bring to a boil while scraping the browned bits of food off of the bottom of the skillet with a wooden spoon."
+            },
+            {
+                "step": 7,
+                "indication": "Melt 2 tablespoons butter in skillet, stir 2 tablespoons olive oil into butter mixture, and bring to a simmer."
+            },
+            {
+                "step": 8,
+                "indication": "Toss linguine, shrimp, and parsley in the butter mixture until coated; season with salt and black pepper. Drizzle with 1 teaspoon olive oil to serve."
+            },
+            { "step": 9, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Marinated Tuna Steak",
+        "link": "https://www.allrecipes.com/recipe/39455/marinated-tuna-steak/",
+        "ingredients": [
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "orange juice"
+            },
+            { "quantity": "¼", "unit": "cup", "ingredientName": "soy sauce" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "chopped fresh parsley"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "lemon juice"
+            },
+            {
+                "quantity": "1",
+                "unit": "clove",
+                "ingredientName": "garlic, minced"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "chopped fresh oregano"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "4",
+                "unit": "(4 ounce)",
+                "ingredientName": "tuna steaks"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Mix orange juice, soy sauce, olive oil, parsley, lemon juice, garlic, oregano, and pepper together in a large non-reactive dish until well combined. Place tuna steaks in marinade and turn to coat. Cover the dish with plastic wrap and marinate in the refrigerator for at least 30 minutes."
+            },
+            {
+                "step": 2,
+                "indication": "Preheat an outdoor grill for high heat and lightly oil the grate. Remove tuna steaks from the marinade and shake off excess; reserve marinade for basting."
+            },
+            {
+                "step": 3,
+                "indication": "Cook tuna steaks on the preheated grill for 5 to 6 minutes; flip steaks and baste with reserved marinade. Cook for an additional 5 minutes, or to desired doneness. Discard any remaining marinade."
+            }
+        ]
+    },
+    {
+        "name": "Stuffed Peppers",
+        "link": "https://www.allrecipes.com/recipe/16330/stuffed-peppers/",
+        "ingredients": [
+            { "quantity": "1", "unit": "cup", "ingredientName": "cold water" },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "uncooked long grain white rice"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "6",
+                "unit": "medium",
+                "ingredientName": "green bell peppers"
+            },
+            {
+                "quantity": "16",
+                "unit": "ounces",
+                "ingredientName": "tomato sauce, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "garlic powder"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "onion powder"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "Italian seasoning"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Gather all ingredients, and preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Bring water and rice to a boil in a covered saucepan. Reduce heat to low and simmer until rice is tender, about 20 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "Meanwhile, heat oil in a skillet over medium heat. Add ground beef and cook until evenly browned and crumbly, 7 to 9 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Hollow out bell peppers by removing and discarding the tops, seeds, and membranes. Slice the bottoms of the peppers if necessary to make sure they stand up straight."
+            },
+            {
+                "step": 5,
+                "indication": "Arrange peppers in a baking dish with the hollowed sides facing upward."
+            },
+            {
+                "step": 6,
+                "indication": "Prepare filling by mixing cooked beef, cooked rice, 1/2 of the tomato sauce, Worcestershire sauce, garlic powder, onion powder, salt, and pepper. Spoon an equal amount of filling into each hollowed pepper."
+            },
+            {
+                "step": 7,
+                "indication": "Mix remaining tomato sauce and Italian seasoning in a bowl, and pour over the stuffed peppers."
+            },
+            {
+                "step": 8,
+                "indication": "Bake in the preheated oven, basting with sauce every 15 minutes, until peppers are tender, about 1 hour."
+            },
+            { "step": 9, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Spicy Thai Basil Chicken (Pad Krapow Gai)",
+        "link": "https://www.allrecipes.com/recipe/257938/spicy-thai-basil-chicken-pad-krapow-gai/",
+        "ingredients": [
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "ingredientName": "chicken broth"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "oyster sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "soy sauce, or as needed"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "ingredientName": "fish sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "brown sugar"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "skinless, boneless chicken thighs, coarsely chopped"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "sliced shallots"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "ingredientName": "garlic, minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "minced Thai chilies, Serrano, or other hot pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "very thinly sliced fresh basil leaves"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "hot cooked rice"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather ingredients." },
+            {
+                "step": 2,
+                "indication": "Whisk chicken broth, oyster sauce, soy sauce, fish sauce, white sugar, and brown sugar together in a bowl until well blended."
+            },
+            {
+                "step": 3,
+                "indication": "Heat large skillet over high heat. Drizzle in oil. Add chicken and stir fry until it loses its raw color, 2 to 3 minutes."
+            },
+            {
+                "step": 4,
+                "indication": "Stir in shallots, garlic, and sliced chilies. Continue cooking on high heat until some of the juices start to caramelize in the bottom of the pan, about 2 or 3 more minutes."
+            },
+            {
+                "step": 5,
+                "indication": "Add about a tablespoon of the sauce mixture to the skillet; cook and stir until sauce begins to caramelize, about 1 minute."
+            },
+            {
+                "step": 6,
+                "indication": "Pour in the rest of the sauce. Cook and stir until sauce has deglazed the bottom of the pan. Continue to cook until sauce glazes onto the meat, 1 or 2 more minutes. Remove from heat."
+            },
+            {
+                "step": 7,
+                "indication": "Stir in basil. Cook and stir until basil is wilted, about 20 seconds. Serve with rice."
+            },
+            { "step": 8, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "link": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "unit": "slices",
+                "ingredientName": "white bread"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "ingredientName": "butter, divided"
+            },
+            {
+                "quantity": "2",
+                "unit": "slices",
+                "ingredientName": "Cheddar cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat a nonstick skillet over medium heat. Generously butter one side of a slice of bread. Place bread butter-side down in the hot skillet; add 1 slice of cheese. Butter a second slice of bread on one side and place butter-side up on top of cheese."
+            },
+            {
+                "step": 2,
+                "indication": "Cook until lightly browned on one side; flip over and continue cooking until cheese is melted. Repeat with remaining 2 slices of bread, butter, and slice of cheese."
+            }
+        ]
+    },
+    {
+        "name": "Juiciest Hamburgers Ever",
+        "link": "https://www.allrecipes.com/recipe/49404/juiciest-hamburgers-ever/",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "ingredientName": "ground beef"
+            },
+            { "quantity": "1", "unit": "", "ingredientName": "egg, beaten" },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "dry bread crumbs"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "ingredientName": "evaporated milk"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "ingredientName": "cayenne pepper"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "ingredientName": "garlic, minced"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            { "step": 2, "indication": "Preheat a grill for high heat." },
+            {
+                "step": 3,
+                "indication": "Mix the ground beef, egg, bread crumbs, evaporated milk, Worcestershire sauce, cayenne pepper, and garlic in a large bowl using your hands."
+            },
+            {
+                "step": 4,
+                "indication": "Form the mixture into 8 hamburger patties."
+            },
+            {
+                "step": 5,
+                "indication": "Lightly oil the grill grate. Grill patties until browned and no longer pink, about 5 minutes per side."
+            },
+            { "step": 6, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Manicotti",
+        "link": "https://www.allrecipes.com/recipe/13883/manicotti/",
+        "ingredients": [
+            {
+                "quantity": "5 ½",
+                "unit": "ounces",
+                "ingredientName": "manicotti pasta"
+            },
+            {
+                "quantity": "1",
+                "unit": "pint",
+                "ingredientName": "part-skim ricotta cheese"
+            },
+            {
+                "quantity": "8",
+                "unit": "ounces",
+                "ingredientName": "shredded mozzarella cheese"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "grated Parmesan cheese, divided"
+            },
+            { "quantity": "2", "unit": "large", "ingredientName": "eggs" },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "dried parsley"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "(16 ounce) jar",
+                "ingredientName": "spaghetti sauce"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Cook manicotti in boiling water until al dente, about 10 to 12 minutes; drain and rinse with cold water."
+            },
+            {
+                "step": 2,
+                "indication": "Preheat oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 3,
+                "indication": "Mix ricotta, mozzarella, 1/2 cup Parmesan cheese, eggs, parsley, salt, and pepper in a large bowl until well combined."
+            },
+            {
+                "step": 4,
+                "indication": "Pour 1/2 cup spaghetti sauce into an 11x17-inch baking dish. Stuff each manicotti shell with 3 tablespoons cheese mixture, and arrange over sauce. Pour remaining sauce over the top of the shells and sprinkle with remaining Parmesan cheese."
+            },
+            {
+                "step": 5,
+                "indication": "Bake in the preheated oven until bubbly, about 45 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Turkey Carcass Soup",
+        "link": "https://www.allrecipes.com/recipe/218804/turkey-carcass-soup/",
+        "ingredients": [
+            { "quantity": "1", "unit": "", "ingredientName": "turkey carcass" },
+            { "quantity": "4", "unit": "quarts", "ingredientName": "water" },
+            {
+                "quantity": "1",
+                "unit": "(28 ounce) can",
+                "ingredientName": "whole peeled tomatoes, chopped"
+            },
+            {
+                "quantity": "6",
+                "unit": "small",
+                "ingredientName": "potatoes, diced"
+            },
+            {
+                "quantity": "4",
+                "unit": "large",
+                "ingredientName": "carrots, diced"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "ingredientName": "onion, diced"
+            },
+            {
+                "quantity": "2",
+                "unit": "stalks",
+                "ingredientName": "celery, diced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "ingredientName": "shredded cabbage"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "uncooked barley"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "Worcestershire sauce"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "ingredientName": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "dried parsley"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "dried basil"
+            },
+            { "quantity": "1", "unit": "large", "ingredientName": "bay leaf" },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "freshly cracked black pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "ground paprika"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "poultry seasoning"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "ingredientName": "dried thyme"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Place turkey carcass into a large soup pot; pour in water and bring to a boil over medium heat. Reduce heat to a simmer, and cook until the remaining meat falls off the bones, about 1 hour."
+            },
+            {
+                "step": 2,
+                "indication": "Remove turkey carcass from the pot. Remove and chop any remaining turkey meat. Discard carcass."
+            },
+            {
+                "step": 3,
+                "indication": "Strain broth through a fine mesh strainer into a clean soup pot. Add chopped turkey to the strained broth and bring to a boil."
+            },
+            {
+                "step": 4,
+                "indication": "Reduce heat and stir in tomatoes, potatoes, carrots, onion, celery, cabbage, barley, Worcestershire sauce, salt, parsley, basil, bay leaf, pepper, paprika, poultry seasoning, and thyme. Simmer until vegetables are tender, about 1 more hour."
+            },
+            { "step": 5, "indication": "Remove bay leaf before serving." }
+        ]
+    },
+    {
+        "name": "Simple Beef Stroganoff",
+        "link": "https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) package",
+                "ingredientName": "egg noodles"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "1",
+                "unit": "(10.5 ounce) can",
+                "ingredientName": "fat-free condensed cream of mushroom soup"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "garlic powder"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "sour cream" },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            }
+        ],
+        "step": [
+            { "step": 1, "indication": "Gather all ingredients." },
+            {
+                "step": 2,
+                "indication": "Sauté ground beef in a large skillet over medium heat until browned and crumbly; 5 to 10 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "At the same time, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain and set aside."
+            },
+            {
+                "step": 4,
+                "indication": "Drain and discard any fat from the cooked beef. Stir condensed soup and garlic powder into the beef. Simmer for 10 minutes, stirring occasionally."
+            },
+            {
+                "step": 5,
+                "indication": "Remove beef from the heat. Add egg noodles and stir to combine. Stir in sour cream and season with salt and pepper."
+            },
+            { "step": 6, "indication": "Serve hot and enjoy!" }
+        ]
+    },
+    {
+        "name": "Homemade Lasagna",
+        "link": "https://www.allrecipes.com/recipe/19344/homemade-lasagna/",
+        "ingredients": [
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "ingredientName": "ground pork"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "ingredientName": "lean ground beef"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "minced onion"
+            },
+            {
+                "quantity": "1",
+                "unit": "(28 ounce) can",
+                "ingredientName": "crushed tomatoes"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) can",
+                "ingredientName": "tomato sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "chopped fresh parsley, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "clove",
+                "ingredientName": "garlic, crushed"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "ingredientName": "dried basil"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "ingredientName": "salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "dried oregano"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "ingredientName": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "(16 ounce) package",
+                "ingredientName": "lasagna noodles"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "small-curd cottage cheese"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "ingredientName": "grated Parmesan cheese"
+            },
+            { "quantity": "3", "unit": "large", "ingredientName": "eggs" },
+            { "quantity": "2", "unit": "teaspoons", "ingredientName": "salt" },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "(16 ounce) package",
+                "ingredientName": "shredded mozzarella cheese"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Combine pork and ground beef in a large, deep skillet over medium-high heat; cook and stir until browned and crumbly, 5 to 7 minutes. Add onion and cook until translucent, about 5 minutes."
+            },
+            {
+                "step": 2,
+                "indication": "Stir in crushed tomatoes, tomato sauce, 1 tablespoon fresh parsley, garlic, basil, salt, oregano, and sugar. Reduce heat to medium-low and simmer, stirring occasionally, for 30 minutes."
+            },
+            {
+                "step": 3,
+                "indication": "While the sauce is simmering, bring a large pot of lightly salted water to a boil. Cook lasagna noodles in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and set aside."
+            },
+            {
+                "step": 4,
+                "indication": "While the noodles are cooking, preheat the oven to 375 degrees F (190 degrees C)."
+            },
+            {
+                "step": 5,
+                "indication": "Mix cottage cheese, Parmesan cheese, eggs, remaining 1 tablespoon fresh parsley, salt, and pepper in a large bowl until combined."
+            },
+            {
+                "step": 6,
+                "indication": "Assemble lasagna: Spread a spoon or two of sauce over the bottom of a 9x13-inch baking dish just to to coat it. Place two layers of noodles over the sauce to cover. Layer with 1/2 of the cheese mixture, 1/2 of the remaining sauce, and 1/2 of the mozzarella cheese. Repeat layers once more using the remaining noodles, cheese mixture, sauce, and mozzarella. Cover the baking dish with aluminum foil."
+            },
+            {
+                "step": 7,
+                "indication": "Bake in the preheated oven for 30 to 40 minutes. Remove the foil and bake until cheese is golden brown, 5 to 10 more minutes."
+            },
+            {
+                "step": 8,
+                "indication": "Remove from the oven and let stand for 10 minutes before cutting and serving."
+            }
+        ]
+    },
+    {
+        "name": "Campbell's Tuna Noodle Casserole",
+        "link": "https://www.allrecipes.com/recipe/151593/campbells-tuna-noodle-casserole/",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "ingredientName": "hot cooked medium egg noodles"
+            },
+            {
+                "quantity": "2",
+                "unit": "(10.5 ounce) cans",
+                "ingredientName": "Campbell's® Condensed Cream of Mushroom Soup (regular or 25% Lower Sodium)"
+            },
+            {
+                "quantity": "2",
+                "unit": "(10 ounce) cans",
+                "ingredientName": "tuna, drained"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "frozen peas"
+            },
+            { "quantity": "1", "unit": "cup", "ingredientName": "milk" },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "dry bread crumbs"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "butter, melted"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 400 degrees F (200 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Stir cooked noodles, condensed soup, tuna, peas, and milk in a 3-quart casserole."
+            },
+            {
+                "step": 3,
+                "indication": "Bake in the preheated oven until hot, about 30 minutes; stir well."
+            },
+            {
+                "step": 4,
+                "indication": "Mix bread crumbs with melted butter in a bowl; sprinkle over tuna casserole and continue to bake until bread crumbs are golden brown and crispy, 5 minutes more."
+            }
+        ]
+    },
+    {
+        "name": "Simple Deep Fried Turkey",
+        "link": "https://www.allrecipes.com/recipe/215412/simple-deep-fried-turkey/",
+        "ingredients": [
+            {
+                "quantity": "3 ½",
+                "unit": "gallons",
+                "ingredientName": "peanut oil for frying"
+            },
+            {
+                "quantity": "1",
+                "unit": "(10 pound)",
+                "ingredientName": "whole turkey, neck and giblets removed"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "salt, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "ground black pepper, or to taste"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Heat oil in a large stockpot or turkey fryer to 350 degrees F (175 degrees C). Make sure the fryer is located outdoors in a safe area, preferably on dirt or pavement, and far away from buildings, wooden decks, or other objects. Keep a fire extinguisher handy, just in case."
+            },
+            {
+                "step": 2,
+                "indication": "Ensure that the turkey is completely thawed. Cut any extra skin away from the neck area and make sure neck hole is at least 1 inch in diameter."
+            },
+            {
+                "step": 3,
+                "indication": "Pat the bird completely dry with paper towels, then rub liberally with salt and pepper on both the outside and the inside."
+            },
+            {
+                "step": 4,
+                "indication": "Place turkey into a drain basket, neck-side first. Working slowly and carefully, gently lower the basket into the hot oil to completely cover the turkey."
+            },
+            {
+                "step": 5,
+                "indication": "Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 35 minutes."
+            },
+            {
+                "step": 6,
+                "indication": "Carefully remove basket from oil, and drain turkey. Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C). Allow to rest for 15 minutes before slicing."
+            }
+        ]
+    },
+    {
+        "name": "Roasted Rack of Lamb",
+        "link": "https://www.allrecipes.com/recipe/45641/roasted-rack-of-lamb/",
+        "ingredients": [
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "fresh bread crumbs"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "minced garlic"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "chopped fresh rosemary"
+            },
+            { "quantity": "1", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "ingredientName": "black pepper"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "(7 bone)",
+                "ingredientName": "rack of lamb, trimmed and frenched"
+            },
+            { "quantity": "1", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "ingredientName": "black pepper"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "olive oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "ingredientName": "Dijon mustard"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 450 degrees F (230 degrees C). Move the oven rack to the center position."
+            },
+            {
+                "step": 2,
+                "indication": "Combine bread crumbs, garlic, rosemary, 1 teaspoon salt, and 1/4 teaspoon pepper in a small bowl; stir in 2 tablespoons olive oil to moisten the mixture. Set aside."
+            },
+            {
+                "step": 3,
+                "indication": "Season rack of lamb all over with 1 teaspoon salt and 1 teaspoon pepper. Heat 2 tablespoons olive oil in a large heavy oven-proof skillet over high heat. Add lamb and sear on all sides, about 1 to 2 minutes: set lamb aside for a few minutes. Brush lamb with mustard and roll in bread crumb mixture until evenly coated. Cover the ends of the bones with foil to prevent charring."
+            },
+            {
+                "step": 4,
+                "indication": "Arrange the breaded rack of lamb bone-side down in the same skillet. Roast in preheated oven for 12 to 18 minutes for medium; an instant-read thermometer inserted into the center should read at least 130 degrees F (54 degrees C), or continue to cook to desired doneness. Remove lamb from the skillet and allow to rest for 5 to 7 minutes, loosely covered with foil, before carving between the ribs."
+            }
+        ]
+    },
+    {
+        "name": "The Best Meatballs",
+        "link": "https://www.allrecipes.com/recipe/40399/the-best-meatballs/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "ingredientName": "ground beef"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "ingredientName": "ground veal"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "ingredientName": "ground pork"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "freshly grated Romano cheese"
+            },
+            { "quantity": "2", "unit": "", "ingredientName": "eggs" },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "ingredientName": "garlic, minced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "ingredientName": "chopped Italian flat leaf parsley"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "ingredientName": "stale Italian bread, crumbled"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "ingredientName": "lukewarm water"
+            },
+            { "quantity": "1", "unit": "cup", "ingredientName": "olive oil" }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Combine beef, veal, and pork in a large bowl. Mix in cheese, eggs, garlic, parsley, salt, and pepper."
+            },
+            {
+                "step": 2,
+                "indication": "Add bread crumbs and slowly mix in water, 1/2 cup at a time, until mixture is moist but still holds its shape (I usually use about 1 1/4 cups of water); shape into meatballs."
+            },
+            {
+                "step": 3,
+                "indication": "Heat olive oil in a large skillet; add meatballs in batches and cook until browned on all sides, slightly crisp, and cooked through, about 10 to 15 minutes. Drain on paper towels."
+            }
+        ]
+    },
+    {
+        "name": "Italian Baked Meatballs",
+        "link": "https://www.allrecipes.com/recipe/268249/italian-baked-meatballs/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "ingredientName": "Italian-seasoned bread crumbs"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "grated Romano cheese"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "ingredientName": "chopped fresh parsley"
+            },
+            { "quantity": "½", "unit": "teaspoon", "ingredientName": "salt" },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "ground black pepper"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "garlic powder"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "ingredientName": "onion powder"
+            },
+            { "quantity": "½", "unit": "cup", "ingredientName": "water" },
+            { "quantity": "2", "unit": "", "ingredientName": "eggs, beaten" },
+            {
+                "quantity": "1 ½",
+                "unit": "pounds",
+                "ingredientName": "ground beef"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "step": 2,
+                "indication": "Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together in a large bowl; stir in water and eggs. Add ground beef and mix until well combined. Form mixture into balls and place on a nonstick baking sheet."
+            },
+            {
+                "step": 3,
+                "indication": "Bake in the preheated oven cooked through and evenly browned, about 30 minutes."
+            }
+        ]
+    },
+    {
+        "name": "Grilled Salmon",
+        "link": "https://www.allrecipes.com/recipe/12720/grilled-salmon-i/",
+        "ingredients": [
+            {
+                "quantity": "1 ½",
+                "unit": "pounds",
+                "ingredientName": "salmon fillets"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "lemon pepper to taste"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "garlic powder to taste"
+            },
+            { "quantity": "", "unit": "", "ingredientName": "salt to taste" },
+            { "quantity": "⅓", "unit": "cup", "ingredientName": "soy sauce" },
+            { "quantity": "⅓", "unit": "cup", "ingredientName": "brown sugar" },
+            { "quantity": "⅓", "unit": "cup", "ingredientName": "water" },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "ingredientName": "vegetable oil"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Season salmon fillets with lemon pepper, garlic powder, and salt."
+            },
+            {
+                "step": 2,
+                "indication": "Stir soy sauce, brown sugar, water, and vegetable oil together in a small bowl until sugar is dissolved. Place fish in a large resealable plastic bag; add soy sauce mixture, seal, and turn to coat. Refrigerate for at least 2 hours."
+            },
+            {
+                "step": 3,
+                "indication": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+            },
+            {
+                "step": 4,
+                "indication": "Place salmon on the preheated grill, and discard marinade. Cook salmon until fish flakes easily with a fork, about 6 to 8 minutes per side."
+            }
+        ]
+    },
+    {
+        "name": "Mississippi Pot Roast",
+        "link": "https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "ingredientName": "chuck roast"
+            },
+            {
+                "quantity": "½",
+                "unit": "(12 ounce) jar",
+                "ingredientName": "pepperoncini"
+            },
+            {
+                "quantity": "½",
+                "unit": "(12 ounce) jar",
+                "ingredientName": "pepperoncini juice"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "ingredientName": "unsalted butter"
+            },
+            {
+                "quantity": "1",
+                "unit": "(1 ounce) packet",
+                "ingredientName": "au jus gravy mix"
+            },
+            {
+                "quantity": "1",
+                "unit": "(0.4 oz) package",
+                "ingredientName": "buttermilk ranch dressing mix"
+            },
+            {
+                "quantity": "",
+                "unit": "",
+                "ingredientName": "salt and ground black pepper to taste"
+            }
+        ],
+        "step": [
+            {
+                "step": 1,
+                "indication": "Combine chuck roast, pepperoncini, pepperoncini juice, butter, au jus mix, ranch dressing mix, salt, and pepper in a slow cooker. Cover and cook on Low until roast is fork-tender, about 8 hours."
+            },
+            {
+                "step": 2,
+                "indication": "Remove chuck from slow cooker; shred with 2 forks and serve with gravy."
+            }
+        ]
+    }
+]
